@@ -5,7 +5,8 @@
 This is place where Preparee will find all relevant information free. Yes **Yay FREE !!!**
 
 
-Click ⭐if you like the projects. Starring the repositories are highly appreciated. Follow me @lavankumar6 for technical updates.
+Click ⭐if you like the projects. Starring the repositories are highly appreciated. 
+Follow me @CodingInterviewPrepartion for technical updates.
 
 This is Community Oriented Organization - Users are welcome to contribute to the projects and be a collaborator.
 

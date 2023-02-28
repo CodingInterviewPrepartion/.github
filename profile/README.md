@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+## Welcome to the Official Coding Interview Preparation Comunnity 
+
+This is place where Preparee will find all relevant information free. Yes **Yay FREE !!!**
+
+
+Click ⭐if you like the projects. Starring the repositories are highly appreciated. Follow me @lavankumar6 for technical updates.
+
+This is Community Oriented Organization - Users are welcome to contribute to the projects and be a collaborator.
+
+The Aim of this Organization is to provide a Free Community for the Coding Interview Preparation and better Job Posting.
+
 <!--
 
 **Here are some ideas to get you started:**

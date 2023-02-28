@@ -6,7 +6,7 @@ This is place where Preparee will find all relevant information free. Yes **Yay 
 
 
 Click ⭐if you like the projects. Starring the repositories are highly appreciated.
-Follow me @lavankumar6 for technical updates.
+Follow me [@CodingInterviewPrepartion](https://github.com/CodingInterviewPrepartion) for technical updates.
 
 This is Community Oriented Organization - Users are welcome to contribute to the projects and be a collaborator.
 
